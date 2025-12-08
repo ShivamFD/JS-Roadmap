@@ -1,0 +1,59 @@
+🟠 30 TRICKY / USEFUL REAL-WORLD TASKS
+21. Check if a value is truthy or falsy manually.
+22. Validate email structure contains "@" and "."
+23. Compare two numbers and print largest — handle equality too.
+24. Determine if a year is a leap year.
+25. Check if a character is vowel or consonant.
+26. Validate strong password using multiple conditions:
+
+length ≥ 8
+
+contains number
+
+contains uppercase
+
+contains symbol
+
+27. Return greeting based on time (Morning/Afternoon/Night).
+28. Categorize age:
+
+0–12 child
+
+13–19 teen
+
+20–60 adult
+
+60 senior
+
+29. Use nested conditions to validate form:
+
+Requires: name, email, password length.
+
+30. Determine delivery charges:
+
+cart total > 500 → free
+
+250 → 20 rupees
+
+else 50 rupees
+
+31. Convert numeric grade to letter grade (A–F).
+32. Check if a string starts with capital letter.
+33. Detect spam messages ("win", "free", "offer").
+34. Check triangle type (equilateral/isoceles/scalene).
+35. Validate phone number length (10 digits).
+36. Check if a number has exactly 3 digits.
+37. Determine if input is a number or not using isNaN().
+38. Identify season based on month number.
+39. Compare three numbers and return largest.
+40. Create a login system using username & password.
+41. Use switch to return number of days in each month.
+42. Check if a user has permission (role-based): admin/user/guest.
+43. Determine if a string is a palindrome using conditionals.
+44. Validate ATM withdraw rules (balance, limit).
+45. Smart traffic signal: input "red"/"yellow"/"green".
+46. Detect if input is empty array, empty string, or null differently.
+47. Check if user input is "yes" or "no" (case-insensitive).
+48. Use short-circuit logic to prevent code crash if value is undefined.
+49. Check if password contains whitespace.
+50. Convert 24-hour time to 12-hour AM/PM using conditionals.
