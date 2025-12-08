@@ -1,0 +1,159 @@
+1️⃣. task01_loginEligibility.js
+
+Check login eligibility using && and comparison operators.
+
+2. task02_passwordValidation.js
+
+Password must be > 8 characters AND contain a number.
+
+3. task03_swapNumbers.js
+
+Swap two numbers without using third variable.
+
+4. task04_gradingSystem.js
+
+Use ternary operator to assign grade.
+
+5. task05_simpleInterest.js
+
+Calculate simple interest using formula.
+
+6. task06_areaOfCircle.js
+
+Calculate area using πr*r.
+
+7. task07_compoundInterest.js
+
+Calculate compound interest.
+
+8. task08_incrementPuzzle.js
+
+Predict output of mixed ++ and -- expressions.
+
+9. task09_typeConversion.js
+
+Convert boolean → number using unary +.
+
+10. task10_stringBuilding.js
+
+Build a paragraph using +=.
+
+11. task11_bitwiseAND.js
+
+Use bitwise & on numbers.
+
+12. task12_bitwiseOR.js
+
+Use bitwise OR to set a flag.
+
+13. task13_bitwiseNOT.js
+
+Flip bits of a number.
+
+14. task14_checkLeapYear.js
+
+Check leap year using logical operators.
+
+15. task15_maxOfThree.js
+
+Find max of 3 numbers using nested ternary.
+
+16. task16_minOfThree.js
+
+Find minimum using ternary.
+
+17. task17_speedCheck.js
+
+Check overspeeding conditions.
+
+18. task18_discountCalculator.js
+
+Calculate discount based on price.
+
+19. task19_salaryIncrement.js
+
+Use += to increase salary yearly.
+
+20. task20_predictOutput01.js
+
+Predict operator output for tricky cases.
+
+21. task21_predictOutput02.js
+
+More tricky output predictions.
+
+22. task22_compareArrays.js
+
+Compare arrays using == and explain result.
+
+23. task23_compareObjects.js
+
+Compare objects using == and ===.
+
+24. task24_temperatureCheck.js
+
+Convert Celsius → Fahrenheit.
+
+25. task25_typeCheck.js
+
+Check if input is null or undefined.
+
+26. task26_evenOddTernary.js
+
+Check even/odd using ternary.
+
+27. task27_nestedLogical.js
+
+Use nested logical operators to validate data.
+
+28. task28_shoppingCart.js
+
+Add multiple item prices using +=.
+
+29. task29_sumOfDigits.js
+
+Calculate sum of digits using % and /.
+
+30. task30_lastDigit.js
+
+Get the last digit of a number using %.
+
+31. task31_firstDigit.js
+
+Extract first digit using division.
+
+32. task32_flipSign.js
+
+Flip sign of any number using unary operator.
+
+33. task33_bitwiseXOR.js
+
+Implement XOR swap.
+
+34. task34_creditScoreCheck.js
+
+Check credit score eligibility using logical operators.
+
+35. task35_marksPercentage.js
+
+Calculate percentage.
+
+36. task36_totalBill.js
+
+Calculate GST & final bill.
+
+37. task37_emiCalculator.js
+
+Use math operators to calculate EMI.
+
+38. task38_isAdult.js
+
+Check adulthood using ternary + comparison.
+
+39. task39_digitCount.js
+
+Count digits using division operator.
+
+40. task40_temperatureCategory.js
+
+Categorize temperature using multiple ternary operators.
