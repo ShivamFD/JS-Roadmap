@@ -1,0 +1,21 @@
+🟢 20 EASY TASKS (Beginner Friendly)
+1. Check if number is positive.
+2. Check if age is 18 or above.
+3. Return "Even" or "Odd".
+4. Check if a number is zero.
+5. Check if two numbers are equal using ===.
+6. Check if password length ≥ 8.
+7. Determine if a string is empty.
+8. Check if temperature > 30 then print "Hot".
+9. If user logged in → show “Dashboard”. Else → “Login”.
+10. Check if a number is between 10 and 20.
+11. Use ternary to return “Adult/Minor”.
+12. Check if a number is divisible by 5.
+13. Print "Weekend" if day is Sat/Sun.
+14. Check if score >= 90 → Grade A.
+15. Use OR (||) to return default username.
+16. Use AND (&&) to check two conditions.
+17. Determine if a string contains spaces (simple check).
+18. Use switch to map numbers 1–3 to colors.
+19. Check if input is null or undefined.
+20. Check if a person is eligible for a discount (age > 60).
