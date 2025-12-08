@@ -1,0 +1,29 @@
+1️⃣ task01_addNumbers.js
+/* Add two numbers and print the result */
+
+2️⃣ task02_remainder.js
+/* Find the remainder of two 
+
+3️⃣ task03_stringToNumber.js
+/* Convert the string "45" to a number using unary + */
+
+4️⃣ task04_incrementDecrement.js
+/* Perform ++ and -- on a variable and print final value */
+
+5️⃣ task05_compareValues.js
+/* Compare two values using == and === and print results */
+
+6️⃣ task06_logicalAnd.js
+/* Check if age is between 18 and 30 using && */
+
+7️⃣ task07_joinStrings.js
+/* Join firstname and lastname using + operator */
+
+8️⃣ task08_typeofCheck.js
+/* Use typeof on string, number, boolean, object, undefined */
+
+9️⃣ task09_evenOrOdd.js
+/* Check if a number is even using % operator */
+
+🔟 task10_unaryNegative.js
+/* Convert "10" to -10 using unary - */
