@@ -1,0 +1,99 @@
+JavaScript Loop Practice - 40 TRICKY & SUPER USEFUL TASKS
+=================================================================
+Real-world level problems | Interview favorites | Logic builders
+Solve using loops only (no built-in methods unless specified)
+Think logically — no solutions provided!
+
+11. Find and print the maximum number in an array (e.g., [4, 78, 12, 89, 33] → 89).
+
+12. Find and print the minimum number in an array.
+
+13. Count and print how many vowels (a, e, i, o, u) are in a given string (case insensitive).
+
+14. Reverse an array in place without using reverse() (e.g., [1,2,3] → [3,2,1]).
+
+15. Print the first 15 numbers of the Fibonacci series (0, 1, 1, 2, 3, 5, 8, ...).
+
+16. Calculate factorial of a number using a loop (e.g., 5! = 120).
+
+17. Find the average of all numbers in an array.
+
+18. From 1 to 20, calculate and print sum of even numbers and sum of odd numbers separately.
+
+19. Remove all duplicates from an array and print the unique array (using loops only).
+
+20. Count frequency of each character in a string and print (e.g., "apple" → a:2, p:2, l:1, e:1).
+
+21. Check if an array is sorted in ascending order (return true/false).
+
+22. Convert a string to Title Case (e.g., "hello world javascript" → "Hello World Javascript").
+
+23. Find and print the second largest number in an array.
+
+24. Print all prime numbers from 1 to 100 using a loop.
+
+25. Check if a string or number is palindrome (e.g., "racecar", 121 → true).
+
+26. Print a pyramid pattern using stars:
+   *
+   **
+   ***
+   ****
+   *****
+
+27. Print an inverted pyramid:
+   *****
+   ****
+   ***
+   **
+   *
+
+28. Count total number of words in a sentence (e.g., "I love coding" → 3).
+
+29. Find and print the longest word in a sentence.
+
+30. Convert all strings in an array to uppercase using a loop.
+
+31. Rotate an array to the left by k positions (e.g., [1,2,3,4,5] rotate by 2 → [3,4,5,1,2]).
+
+32. Merge two arrays into one without using concat() or spread.
+
+33. Split a string into an array of characters without using split().
+
+34. Find the sum of digits of a number (e.g., 1234 → 1+2+3+4 = 10).
+
+35. Multiply all numbers in an array and return the product.
+
+36. Find the difference between the largest and smallest number in an array.
+
+37. Replace all spaces in a string with hyphens (e.g., "hello world" → "hello-world").
+
+38. Print only unique characters from a string (remove duplicates).
+
+39. Print frequency of each element in an array (e.g., [1,2,2,3,3,3] → 1:1, 2:2, 3:3).
+
+40. Find intersection of two arrays (common elements) using loops only.
+
+41. Find union of two arrays (all unique elements) without using Set.
+
+42. Generate a random 5-digit number using a loop (10000 to 99999).
+
+43. Count uppercase and lowercase letters separately in a string.
+
+44. Find and print all duplicate elements in an array.
+
+45. Flatten a 2D array into 1D (e.g., [[1,2],[3,4],[5]] → [1,2,3,4,5]).
+
+46. Print all possible substrings of a string (e.g., "abc" → a, ab, abc, b, bc, c).
+
+47. Capitalize the first letter of each word in a sentence.
+
+48. Reverse the words in a sentence (e.g., "I love JavaScript" → "JavaScript love I").
+
+49. Convert a decimal number to binary using a loop (no toString(2)).
+
+50. Given a 2D matrix (array of arrays), print the sum of each row.
+
+Master these = You're loop god now!
+Perfect for interviews, projects, and deep JS understanding.
+Keep practicing — consistency wins!
