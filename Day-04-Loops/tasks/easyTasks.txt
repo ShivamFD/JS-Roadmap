@@ -1,0 +1,28 @@
+JavaScript Loop Practice - 10 EASY TASKS
+================================================
+Solve each task using any loop (for, while, or do...while).
+Write clean, readable code with proper comments.
+No hints — pure practice!
+
+1. Print all numbers from 1 to 10 (inclusive) — one number per line.
+
+2. Print all EVEN numbers from 1 to 20 (inclusive).
+
+3. Print all ODD numbers from 1 to 20 (inclusive).
+
+4. Take a string (e.g., "JavaScript") and print each character on a new line.
+
+5. Given an array like [10, 20, 30, 40, 50], print every element using a for loop.
+
+6. Calculate and print the sum of numbers from 1 to 50 (1 + 2 + ... + 50).
+
+7. Take a positive integer (e.g., 4583) and count how many digits it has using a loop.
+
+8. Print the multiplication table of 5 (5 × 1 = 5, 5 × 2 = 10, ..., up to 5 × 10).
+
+9. Reverse a string (e.g., "hello" → "olleh") using a loop (no reverse() method).
+
+10. Print numbers from 10 down to 1 (countdown) using a loop.
+
+Great for beginners! Finish all 10 to build strong loop fundamentals.
+Happy Coding!
