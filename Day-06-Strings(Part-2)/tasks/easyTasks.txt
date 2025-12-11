@@ -1,0 +1,21 @@
+🟢 10 EASY TASKS
+
+Convert string to uppercase.
+
+Remove spaces using trim().
+
+Check if a string starts with "http".
+
+Check if a string ends with ".jpg".
+
+Find first occurrence of "a" in a string.
+
+Replace first space with "_".
+
+Replace all "a" with "@".
+
+Extract words using split().
+
+Count digits using regex.
+
+Validate if a sentence contains the word "JavaScript".
