@@ -1,0 +1,82 @@
+🔵 40 TRICKY + USEFUL TASKS
+
+Reverse a string manually (loop).
+
+Count vowels in a string.
+
+Remove spaces manually (loop).
+
+Count words in a sentence.
+
+Find longest word in a string.
+
+Convert a string to Title Case.
+
+Convert a sentence to camelCase.
+
+Extract username from email.
+
+Check if string is a palindrome.
+
+Count frequency of each character.
+
+Replace all spaces with "-" using loop.
+
+Count uppercase & lowercase letters.
+
+Extract file extension from filename.
+
+Extract domain name from URL.
+
+Mask email like s****m@gmail.com
+
+Repeat string n times (loop).
+
+Remove duplicate characters.
+
+Find second most frequent character.
+
+Swap case (a → A, A → a).
+
+Reverse words in a sentence.
+
+Extract numbers from a mixed string.
+
+Check if string starts with a vowel.
+
+Check if string ends with consonant.
+
+Insert string at a given position.
+
+Truncate string with "..." if > n chars.
+
+Compare two strings without using == or ===.
+
+Remove all vowels from a string.
+
+Find first repeated character.
+
+Find last repeated character.
+
+Create string pattern using loops.
+
+Convert snake_case → camelCase.
+
+Convert camelCase → snake_case.
+
+Extract capital words from string:
+Example: "Hello WORLD JS" → "WORLD JS"
+
+Replace digits with #.
+
+Check if a string contains only numbers.
+
+Count special characters.
+
+Extract middle character of string.
+
+Check anagram strings.
+
+Sort characters of string alphabetically.
+
+Remove repeated words in a sentence.
