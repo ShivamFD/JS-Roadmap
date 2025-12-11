@@ -1,0 +1,81 @@
+🔵 40 TRICKY + USEFUL TASKS
+
+Count total vowels using regex.
+
+Get all uppercase letters using match().
+
+Extract numbers from mixed string.
+
+Extract only letters from mixed string.
+
+Validate phone number (10 digits).
+
+Validate strong password using regex.
+
+Remove extra spaces from a sentence.
+
+Replace multiple spaces with single space.
+
+Remove all special characters.
+
+Mask phone number except last 4 digits.
+
+Mask email address.
+
+Convert snake_case → camelCase.
+
+Convert camelCase → snake_case.
+
+Extract domain from email.
+
+Extract domain name from URL.
+
+Find most repeated character.
+
+Count frequency of digits.
+
+Check palindrome using methods only.
+
+Reverse each word in a sentence.
+
+Sort characters alphabetically.
+
+Format number as 5-digit ID using padStart().
+
+Repeat string n times using repeat().
+
+Replace digits with "#".
+
+Find first non-repeating character.
+
+Compress string (aaabb → a3b2).
+
+Decompress string (a3b2 → aaabb).
+
+Extract hashtags from text.
+
+Extract mentions (@user) from text.
+
+Remove duplicate words.
+
+Find words with only vowels.
+
+Remove HTML tags using regex.
+
+Check if string contains only letters.
+
+Find longest word using regex.
+
+Count sentences in a paragraph.
+
+Check if password contains spaces.
+
+Convert "12-10-2025" → "2025/10/12" using regex.
+
+Extract file extension.
+
+Validate URL.
+
+Remove brackets/parentheses from string.
+
+Find all repeated words.
