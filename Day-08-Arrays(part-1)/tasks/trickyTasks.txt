@@ -1,0 +1,88 @@
+// =======================================================
+// DAY 8 — ARRAYS PART 1 — 40 TRICKY & USEFUL TASKS
+// Practice File — Solve Before Checking Solutions!
+// =======================================================
+
+// Task 21: Manually reverse an array without reverse().
+
+// Task 22: Find duplicates in an array using loops.
+
+// Task 23: Remove duplicates without Set.
+
+// Task 24: Merge two arrays without concat().
+
+// Task 25: Implement stack using push/pop (with operations).
+
+// Task 26: Implement queue using push/shift.
+
+// Task 27: Search for object by property in array of objects.
+
+// Task 28: Find max number without Math.max.
+
+// Task 29: Sum array without reduce().
+
+// Task 30: Average of numbers with loop.
+
+// Task 31: Rotate array left by k positions.
+
+// Task 32: Rotate array right by k positions.
+
+// Task 33: Check if array is sorted ascending.
+
+// Task 34: Find missing number in 1 to n array.
+
+// Task 35: Find pair that sums to target (nested loop).
+
+// Task 36: Flatten nested array manually (loop/recursion).
+
+// Task 37: Sparse array: Count defined elements.
+
+// Task 38: Loop to create 2D array (matrix).
+
+// Task 39: Transpose a 2D array.
+
+// Task 40: Search in 2D array for value.
+
+// Task 41: Implement binary search on sorted array.
+
+// Task 42: Bubble sort implementation.
+
+// Task 43: Loop to count frequency of elements.
+
+// Task 44: Find second largest number.
+
+// Task 45: Shift all zeros to end.
+
+// Task 46: Unshift without unshift() (manual).
+
+// Task 47: Pop without pop() (manual).
+
+// Task 48: Loop to interleave two arrays.
+
+// Task 49: Find intersection of two arrays (loops only).
+
+// Task 50: Find union of two arrays (no duplicates).
+
+// Task 51: Check if array is palindrome.
+
+// Task 52: Generate Fibonacci array up to n.
+
+// Task 53: Loop to remove specific item (manual splice).
+
+// Task 54: Insert item at specific index without splice.
+
+// Task 55: Count even/odd numbers.
+
+// Task 56: Filter positives without filter().
+
+// Task 57: Map to double without map().
+
+// Task 58: Handle sparse: Compact array (remove undefined).
+
+// Task 59: Loop with break on condition.
+
+// Task 60: Nested loop for cartesian product.
+
+// =======================================================
+// Now go to trickyTasksSolutions.js for full solutions!
+// =======================================================
