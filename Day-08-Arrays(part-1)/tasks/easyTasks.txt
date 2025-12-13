@@ -1,0 +1,24 @@
+
+```txt
+## 20 Easy Tasks for Arrays Part 1 (Basics, Push/Pop, Loops, Search)
+
+1. Create an empty array and print its length.
+2. Create an array with 3 numbers and access the second element.
+3. Update the first element of an array.
+4. Add an item to the end of an array using push().
+5. Remove the last item from an array using pop().
+6. Add an item to the start of an array using unshift().
+7. Remove the first item from an array using shift().
+8. Print all items in an array using a for loop.
+9. Print all items using for...of loop.
+10. Check if an array includes a specific number.
+11. Find the index of a string in an array.
+12. Find the last index of a repeated item.
+13. Create an array from a string using split().
+14. Loop through an array and sum all numbers.
+15. Create a sparse array and print its length.
+16. Use at() to access the last item.
+17. Truncate an array by setting length.
+18. Extend an array by setting length higher.
+19. Push multiple items at once.
+20. Pop from an empty array and handle undefined.
