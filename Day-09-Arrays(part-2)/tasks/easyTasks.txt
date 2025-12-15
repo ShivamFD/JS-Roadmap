@@ -1,0 +1,22 @@
+## 20 Easy Tasks for Arrays Part 2 (map, filter, reduce, every, some)
+
+1. Use map to double all numbers in an array.
+2. Use map to convert strings to uppercase.
+3. Use filter to get even numbers from an array.
+4. Use filter to get strings longer than 5 chars.
+5. Use reduce to sum all numbers in an array.
+6. Use reduce to find the max number.
+7. Use every to check if all numbers are positive.
+8. Use every to check if all strings start with "a".
+9. Use some to check if any number is greater than 10.
+10. Use some to check if any string includes "js".
+11. Chain filter and map to get doubled evens.
+12. Chain map and reduce to sum squares.
+13. Use reduce with initial empty array to clone.
+14. Use every on empty array (should be true).
+15. Use some on empty array (should be false).
+16. Use map on array of objects to extract names.
+17. Use filter on objects to get active users.
+18. Use reduce to count occurrences (basic).
+19. Chain filter, map, reduce for total of evens.
+20. Use every to validate all items are numbers.
