@@ -1,0 +1,62 @@
+## 60 Tricky & Useful Tasks for Arrays Part 2 (map, filter, reduce, every, some)
+
+21. Use map to create array of object properties (e.g., ages from users).
+22. Use filter to remove falsy values (compact array).
+23. Use reduce to create object from array (key-value pairs).
+24. Use reduce to flatten nested arrays.
+25. Use every to check if array is strictly increasing.
+26. Use some to find if array has duplicates.
+27. Chain map & filter to transform and select.
+28. Use reduce to group by property (e.g., by category).
+29. Use reduce to implement map() manually.
+30. Use reduce to implement filter() manually.
+31. Use reduce for running total (cumulative sum).
+32. Use every with callback using index.
+33. Use some to check palindrome array.
+34. Chain to find average of positives.
+35. Use reduce to reverse array.
+36. Use map with index to create ranked list.
+37. Use filter to get unique values (with indexOf).
+38. Use reduce to find min and max in one pass.
+39. Use every to validate email array (regex).
+40. Use some to check if array has NaN.
+41. Use reduce to count words in string array.
+42. Chain filter & reduce to sum odds.
+43. Use map to format dates in array.
+44. Use filter on nested objects (e.g., active users with age >18).
+45. Use reduce to merge array of objects.
+46. Use every to check all even with bitwise.
+47. Use some for existence without includes.
+48. Implement find() using reduce.
+49. Implement findIndex() using reduce.
+50. Use reduce for cartesian product (two arrays).
+51. Chain to normalize array (toLowerCase + trim).
+52. Use map to async promises (but sync here).
+53. Use reduce to build query string from array.
+54. Use every for type checking all strings.
+55. Use some for partial match in strings.
+56. Use reduce to create frequency map.
+57. Chain filter, map, reduce for pipeline stats.
+58. Use map with array arg (rare use).
+59. Use reduceRight for right-to-left aggregation.
+60. Use every/some with objects (deep checks).
+61. Implement chunk array using reduce.
+62. Use map to clone deep (simple).
+63. Use filter to remove by index condition.
+64. Use reduce to interleave arrays.
+65. Chain to find unique evens doubled.
+66. Use some for short-circuit search.
+67. Use every for validation chain.
+68. Use reduce to simulate join().
+69. Use map for side effects (log + transform).
+70. Use reduce for balancing parentheses check.
+71. Implement flat() using reduce.
+72. Use filter with index (alternate items).
+73. Use reduce to find longest string.
+74. Chain for data normalization + aggregation.
+75. Use every to check sorted.
+76. Use some for error detection.
+77. Use map to create pairs [item, index].
+78. Use reduce for custom sort simulation.
+79. Implement includes using some.
+80. Chain map, filter, every for full test.
