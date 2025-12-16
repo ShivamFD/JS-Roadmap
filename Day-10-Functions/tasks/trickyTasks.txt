@@ -1,0 +1,81 @@
+🔵 40 TRICKY + USEFUL TASKS
+
+Write a function to find factorial.
+
+Function to reverse a string.
+
+Create your own map function.
+
+Create your own filter function.
+
+Create your own reduce function.
+
+Function to find max in array.
+
+Function to find min in array.
+
+Function to count vowels in a string.
+
+Function to check palindrome.
+
+Function to generate Fibonacci series.
+
+Function to find prime numbers in range.
+
+Function to count words in a sentence.
+
+Function to capitalize each word.
+
+Function to convert sentence to title case.
+
+Function to remove duplicates from array.
+
+Function to flatten nested arrays.
+
+Function to calculate power (x^n).
+
+Function to merge 2 arrays.
+
+Function to calculate average of array.
+
+Function to check Armstrong number.
+
+Function to print multiplication table.
+
+Function that returns object values in array.
+
+Function to return object keys in array.
+
+Function to check if array is sorted.
+
+Function to rotate array by k elements.
+
+Function to convert number to binary.
+
+Function to count frequency of characters.
+
+Function to remove spaces from string.
+
+Function to return unique characters.
+
+Function to reverse words in sentence.
+
+Function to find intersection of arrays.
+
+Function to find union of arrays.
+
+Function that returns random OTP (6-digit).
+
+Function to count uppercase letters.
+
+Function to count lowercase letters.
+
+Function to check if number is perfect.
+
+Function to find second largest number.
+
+Function to sort array manually.
+
+Function to generate pattern using loops + functions.
+
+Function to find missing number in sequence.
