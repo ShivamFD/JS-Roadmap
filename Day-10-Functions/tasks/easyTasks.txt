@@ -1,0 +1,21 @@
+🟢 10 EASY TASKS
+
+Create a function that prints "Hello World".
+
+Write a function that adds 2 numbers.
+
+Write a function that subtracts 2 numbers.
+
+Write a function that returns the square of a number.
+
+Create a function to check if a number is even.
+
+Create a function to check if a number is odd.
+
+Create a function that returns the sum of numbers from 1 to n.
+
+Create a function that concatenates 2 strings.
+
+Write a function to convert Celsius → Fahrenheit.
+
+Create a function to return the length of a string.
