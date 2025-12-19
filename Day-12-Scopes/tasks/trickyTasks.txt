@@ -1,0 +1,80 @@
+### trickyTasks.txt
+
+Explain why this code prints 6 six times and fix it in 3 different ways.
+for (var i = 0; i < 6; i++) {
+setTimeout(() => console.log(i), i * 100);
+}
+Create a function that returns a function which always adds a specific number (factory pattern).
+What will be the output?
+console.log(a);
+var a = 5;
+console.log(a);
+let b = 10;
+console.log(b);
+Implement a private counter using closure without exposing any variable globally.
+Create a module pattern object with private methods and public methods.
+What happens when you do typeof on a let variable in TDZ?
+Create a closure that leaks memory by holding a large array.
+Fix the memory leak in the above task.
+Write a function that creates unique IDs using closure.
+Explain the difference between var in a block vs let in a block with example.
+Create a chain of 3 nested functions each accessing variables from outer scopes.
+What will this print?
+function test() {
+console.log(x);
+console.log(y);
+var x = 10;
+let y = 20;
+}
+test();
+Implement a once function (a function that can be called only once) using closure.
+Create a memoization function using closure.
+What is the output?
+{
+let a = 1;
+{
+console.log(a);
+let a = 2;
+}
+}
+Create a function that returns different functions based on a parameter using closure.
+Explain why arrow functions inside object methods don't bind this correctly for scope examples.
+Implement a curry function using closures.
+What will be the output?
+var funcs = [];
+for (let i = 0; i < 3; i++) {
+funcs.push(function() { console.log(i); });
+}
+funcs0; funcs1; funcs2;
+Same as above but with var instead of let – explain the difference.
+Create a self-invoking function that creates a private scope with private variables.
+Demonstrate shadowing across multiple levels.
+What is the output?
+function outer() {
+var a = 10;
+function inner() {
+console.log(a);
+var a = 20;
+}
+inner();
+}
+outer();
+Create a closure-based event handler that remembers its index correctly in a loop.
+Implement a simple state management using closure (like a mini Redux).
+What happens when you return a function from another function and call it later?
+Create a function that can cache its results (manual memoization).
+Explain lexical scoping with a real-world example (event listeners).
+What is the difference between scope and execution context?
+Create a closure that captures a DOM element safely.
+Write a function that returns a new function with preset arguments.
+Demonstrate variable hoisting vs function hoisting priority.
+What will this print?
+console.log(typeof x);
+let x = 5;
+Create a closure that modifies a variable in outer scope.
+Implement a debounce function using closure.
+Implement a throttle function using closure.
+Create a chain of closures that build a sentence.
+What is the output when mixing var and let in the same block?
+Demonstrate that const in a loop allows new objects each iteration.
+Create a closure that returns an object with getter and setter for a private variable.
