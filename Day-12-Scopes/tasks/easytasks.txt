@@ -1,0 +1,23 @@
+
+### easyTasks.txt
+
+Declare a global variable and access it inside a function.
+Create a function-scoped variable using var and try to access it outside the function.
+Declare a block-scoped variable with let inside an if block and try accessing it outside.
+Write a for loop using var and log the loop variable after the loop.
+Rewrite the above loop using let and see the difference.
+Demonstrate hoisting with var (log before declaration).
+Demonstrate TDZ error with let.
+Create a simple closure that returns a counter starting from 1.
+Shadow a global variable inside a function.
+Use const in a block and try to reassign it.
+Create a function that returns another function accessing its local variable.
+Fix a loop that prints wrong values using var and setTimeout.
+Use let in a for-in loop with objects.
+Declare two variables with same name using var in same function.
+Try to access a const variable before its declaration.
+Create nested blocks and show block scope behavior.
+Write an IIFE that creates a private variable.
+Show that function declarations are hoisted.
+Show that arrow functions are not hoisted.
+Create a closure that remembers a parameter passed to outer function.
