@@ -1,0 +1,22 @@
+text### easyTasks.txt
+
+Log a var variable before and after declaration.
+Try logging a let variable before declaration.
+Call a function declaration before defining it.
+Try calling a function expression before defining it.
+Use typeof on a let variable in TDZ.
+Declare same var variable twice and see output.
+Show that function declaration overrides var.
+Create a function inside if block with var and access outside.
+Use const before declaration and see error.
+Hoist multiple var declarations.
+Call arrow function before declaration.
+Show function declaration hoisting in a block.
+Declare var inside loop and access outside.
+Use var in switch case and see leakage.
+Demonstrate named function expression hoisting.
+Log function declaration before and after redeclaration.
+Mix var and function with same name.
+Use let in for loop and try accessing outside.
+Show const object property mutation after hoisting (TDZ).
+Write a simple script relying on var hoisting (bad practice).
