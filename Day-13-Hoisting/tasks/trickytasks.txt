@@ -1,0 +1,114 @@
+### trickyTasks.txt
+
+What will be the output of this code?
+console.log(a);
+var a = 10;
+console.log(b);
+let b = 20;
+function test() { console.log("test"); }
+test();
+Explain the output:
+var x = 1;
+function outer() {
+console.log(x);
+var x = 2;
+console.log(x);
+}
+outer();
+console.log(x);
+Predict output:
+foo();
+function foo() { console.log("First"); }
+var foo = function() { console.log("Second"); };
+foo();
+What happens here?
+console.log(typeof temp);
+console.log(temp);
+let temp = "value";
+Fix this code to avoid hoisting issues:
+var name = "global";
+if (true) {
+console.log(name);
+var name = "block";
+console.log(name);
+}
+Create a self-executing function using hoisting behavior.
+What is the output?
+var funcs = [];
+for (var i = 0; i < 3; i++) {
+funcs.push(function() { console.log(i); });
+}
+funcs0; funcs1; funcs2;
+Why does this not throw error?
+console.log(typeof undeclaredVar);
+Implement a module using IIFE to avoid hoisting pollution.
+What will this print?
+function example() {
+return test();
+function test() { return "inner"; }
+var test = function() { return "outer"; };
+}
+console.log(example());
+Explain TDZ with nested blocks.
+Create a case where function hoisting saves the day.
+What is the output?
+var a = 10;
+function a() { }
+console.log(typeof a);
+Demonstrate hoisting priority: class vs function vs var.
+What will this log?
+console.log(myVar);
+console.log(myLet);
+console.log(myConst);
+var myVar = 1;
+let myLet = 2;
+const myConst = 3;
+Why does this work?
+sayHello();
+function sayHello() {
+console.log(message);
+var message = "Hi";
+}
+Create a hoisting trap with duplicate function declarations.
+What is the difference in hoisting between script and module mode?
+Show that function parameters shadow hoisted variables.
+Implement a counter using hoisting (weird way).
+What will be the output?
+(function() {
+console.log(a);
+var a = 5;
+function a() { }
+console.log(a);
+})();
+Explain why this throws TypeError:
+var fn = function() { console.log("expr"); };
+fn();
+function fn() { console.log("decl"); }
+Create a realistic bug caused by var hoisting in real code.
+What is the output with multiple redeclarations?
+Demonstrate that let hoisting doesn't allow redeclaration.
+What happens when you hoist a const object and mutate it?
+Create a polyfill-like pattern using hoisting.
+Explain the execution order with hoisting visualization.
+What will typeof return for a const in TDZ?
+Show function hoisting across conditional blocks.
+Create a private variable pattern using hoisting + closure.
+What is the final value of x?
+var x = 1;
+var x = 2;
+function x() { }
+x = 3;
+Why does this not work as expected?
+var elements = document.getElementsByTagName("div");
+for (var i = 0; i < elements.length; i++) {
+elements[i].addEventListener("click", function() {
+console.log(i);
+});
+}
+Demonstrate hoisting in try-catch.
+What is the output of this classic interview question?
+Create a safe wrapper avoiding hoisting issues.
+Explain why arrow functions in var don't hoist body.
+What happens when you declare function inside let?
+Show hoisting behavior in eval().
+Final challenge: Predict the output of this complex hoisting code.
