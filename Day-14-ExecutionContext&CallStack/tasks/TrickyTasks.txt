@@ -1,0 +1,69 @@
+### trickyTasks.txt
+
+Predict the exact output and call stack order:
+console.log("1");
+setTimeout(() => console.log("2"), 0);
+Promise.resolve().then(() => console.log("3"));
+console.log("4");
+Explain why this prints undefined:
+function test() {
+console.log(this);
+}
+test();
+Fix the this loss in this example:
+const obj = {
+name: "Alice",
+greet: function() {
+setTimeout(function() {
+console.log("Hello " + this.name);
+}, 100);
+}
+};
+What is the maximum call stack size in your browser/Node?
+Create a function that returns another function and show scope chain.
+Explain the difference between Execution Context and Scope.
+What will console.trace() show inside a deeply nested call?
+Why does new Function() have limited scope access?
+Demonstrate arguments object in function EC.
+What happens to this in arrow function inside object method?
+Create a recursive factorial and trace the stack growth.
+Explain how async code interacts with call stack.
+What is the output?
+var a = 1;
+function outer() {
+var a = 2;
+function inner() {
+console.log(a);
+}
+inner();
+}
+outer();
+Why does call stack clear before setTimeout callbacks run?
+Implement a simple trampoline to avoid stack overflow in recursion.
+What will this print in strict mode?
+"use strict";
+console.log(this);
+Create a closure that captures variables from multiple ECs.
+Explain Variable Environment vs Lexical Environment.
+What is the this value in a function called with call(null)?
+Show how bind creates a new function with fixed this.
+Predict output with multiple setTimeout and Promise.
+What happens when you throw an error — how does stack unwind?
+Create a function that logs its own execution context details.
+Explain why let/const are not on Variable Object.
+Demonstrate hoisting + creation phase with function and var conflict.
+What is the call stack state during await?
+Create a mini debugger that logs entry/exit of functions.
+Explain the role of outer reference in closures.
+What will happen if you do infinite synchronous loop?
+Show how new creates its own this context.
+Why does eval() have its own execution context?
+Demonstrate that function parameters are part of Variable Environment.
+What is the difference between call stack and task queue?
+Create a case where this is window even in strict mode.
+Explain stack frames in browser dev tools.
+Implement tail call optimization simulation (ES6 doesn't have it).
+What will be the output with nested this and arrow?
+Show how Event Loop empties call stack before microtasks.
+Create a function that returns its caller name (advanced).
+Final challenge: Predict full output and stack behavior of complex code.
