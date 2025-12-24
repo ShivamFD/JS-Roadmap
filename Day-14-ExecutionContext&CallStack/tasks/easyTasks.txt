@@ -1,0 +1,23 @@
+### easyTasks.txt
+
+Write a simple script and trace the call stack mentally.
+Create a function that calls another function and log this.
+Use console.trace() inside a nested function.
+Create a global variable and access it from deep nested function.
+Use var in global and function scope and see hoisting in creation phase.
+Demonstrate this in global context.
+Call a function normally and see this in non-strict mode.
+Use strict mode and see this becomes undefined.
+Create an object method and call it to see this.
+Use arrow function as method and see this behavior.
+Create a simple recursive function with base case.
+Log something before and after a function call.
+Use setTimeout with 0 delay and see call stack order.
+Create three nested functions and call them.
+Demonstrate scope chain lookup with same variable names.
+Use bind() to fix this in a callback.
+Create a constructor function and use new.
+Show that function declarations are available in creation phase.
+Try to access let before initialization in a function.
+Write a script that would cause stack overflow (comment it out).
+
